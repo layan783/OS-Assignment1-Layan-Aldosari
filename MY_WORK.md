@@ -129,81 +129,125 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [October 6, 2026, 9:00 PM]
+**What I did**:Read the assignment instructions and reviewed the project requirements.
 
-**Details**:
+**Details**: 
+- Read the assignment instructions to understand the required tasks.
 
-**Challenges**:
+- Reviewed the Round-Robin scheduling concept.
 
-**Solution**:
+- Checked the three required features and the documentation requirements.
 
-**Time spent**:
+- Planned how to start working on the Java project.
 
----
+**Challenges**: At first, I found it difficult to understand all the requirements and how the features were related to the original scheduler.
 
-### Entry 2 - [Date and Time]
-**What I did**:
+**Solution**:I read the instructions carefully and divided the assignment into smaller tasks.
 
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
+**Time spent**: 2 hours
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**:
+### Entry 2 - [October 7, 2026, 9:00 PM]
+**What I did**: Updated my student ID and prepared the Java project.
 
 **Details**:
+- Opened the assignment repository on GitHub.
 
-**Challenges**:
+- Updated my student ID to 446360212 in SchedulerSimulation.java.
 
-**Solution**:
+- Saved the change with the commit Update student ID for random number generation.
 
-**Time spent**:
+- Reviewed the code to understand how the scheduler works
+
+
+**Challenges**: At first, I needed to understand where to make changes without affecting the original code.
+
+**Solution**:I reviewed the Java file and made the required changes carefully
+
+**Time spent**: 2 hours
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**:
+### Entry 3 - [October 8, 2026, 4:00 PM]
+**What I did**: Added Feature 1 to display random process priorities
 
 **Details**:
+- Added a random priority value for each process.
 
-**Challenges**:
+- Updated the output to display the priority next to the burst time.
 
-**Solution**:
+- Ran the program to check the new output.
 
-**Time spent**:
+- Saved the changes with the commit Feature 1: Add random process priority display
+  
+**Challenges**:  I needed to display the priority values without changing the original scheduling behavior
+  
+**Solution**: I updated the process information and checked the output to make sure the program still worked
+
+
+**Time spent**: 3 hours
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**:
+### Entry 4 - [October 8, 2026, 8:30 PM]
+**What I did**: Added Feature 2 to count CPU dispatches
 
 **Details**:
+- Added a counter to track how many times the CPU selected a process.
 
-**Challenges**:
+- Updated the scheduler to increase the counter during execution.
 
-**Solution**:
+- Displayed the total count at the end of the program.
 
-**Time spent**:
+- Saved the changes with the commit Feature 2: Track CPU dispatch count.
+
+**Challenges**: I needed to understand where the counter should be updated in the scheduler
+
+**Solution**:I added the counter to the scheduling logic and ran the program to check the result
+
+**Time spent**: 1 hour 
 
 ---
 
-### Entry 6 - [Optional - Date and Time]
-**What I did**:
+### Entry 5 - [October 8, 2026, 10:00 PM]
+**What I did**: Added Feature 3 to calculate waiting time and turnaround time
 
 **Details**:
+- Added calculations for each process's waiting time and turnaround time.
 
-**Challenges**:
+- Updated the final output to display the process statistics.
 
-**Solution**:
+- Ran the program to check that all processes completed successfully.
 
-**Time spent**:
+- Saved the changes with the commit Feature 3: Track process waiting and turnaround times
+
+**Challenges**: I needed to understand how to calculate the process times and display them correctly
+
+**Solution**:I updated the calculations and checked the final output after running the program
+
+**Time spent**: 1 hour and 30 minutes
+
+---
+
+### Entry 6 - [October 9, 2026, 12:30 AM]
+**What I did**: Worked on the assignment documentation.
+
+**Details**:
+- Opened and edited the MY_WORK.md file.
+
+- Answered the reflection and technical questions.
+
+- Used my program output to explain the ready queue behavior and thread lifecycle.
+
+- Saved my work using the commit Update assignment documentation.
+
+**Challenges**: I had difficulty understanding how to save my changes correctly in GitHub
+
+**Solution**: I followed the editing steps and used Commit changes to save the documentation.
+
+**Time spent**: 3 hours
 
 ---
 
@@ -211,13 +255,13 @@
 
 > 💡 **TIP:** Fill this in **last**, after all entries are written.
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [12 hours and 30 minutes]
 
-**Most challenging part**:
+**Most challenging part**: Adding the three new features without affecting the original Round-Robin scheduling logic. Calculating waiting time and turnaround time was especially challenging
 
-**Most interesting learning**:
+**Most interesting learning**:  I learned how Round-Robin scheduling manages processes using a time quantum and how to track CPU dispatches, waiting time, and turnaround time
 
-**What I would do differently next time**:
+**What I would do differently next time**:  I would plan my work earlier, test each feature separately, and update my Development Log after every work session
 
 ---
 
@@ -266,17 +310,14 @@
 ### Optional: What would you like to learn more about?
 I want to know more about how operating systems handle several threads at once. Additionally, I'm curious about how various CPU scheduling strategies impact program performance. I believe that becoming more knowledgeable about these subjects will enable me to comprehend how actual apps operate.
 
-[Any topics related to threading or operating systems that you're curious about?]
 
 ### Optional: How confident do you feel about multithreading concepts now?
 in the middle. I now understand how Round-Robin scheduling controls processes and how threads operate. Additionally, I learned how to compute turnaround and waiting times. I still need to practice writing multithreading code on my own, though.
 
-[Beginner / Intermediate / Confident. What do you understand well? What needs more practice?]
 
 ### Optional: Feedback on the assignment
 Although difficult, this assignment was beneficial. Instead of just learning the theory, it helped me grasp multithreading topics through real-world code. My understanding of the program improved once I added the three features and tested the results. The assignment, in my opinion, was a useful approach to practice GitHub and Java programming.
 
-[Any comments? Was it helpful? Too easy or hard? Suggestions?]
 
 ---
 
