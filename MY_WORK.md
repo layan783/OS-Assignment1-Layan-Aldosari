@@ -31,7 +31,7 @@
 |-------|-------------|
 | **Full Name** | [Layan Nasser Aldosari] |
 | **Student ID** | [446360212] |
-| **University Email** | [446360212]@std.psau.edu.sa |
+| **University Email** | [446360212@std.psau.edu.sa |
 | **GitHub Username** | [layan783] |
 | **Repository Link** | [https://github.com/layan783/OS-Assignment1-Layan-Aldosari] |
  
@@ -39,7 +39,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [https://drive.google.com/file/d/1EmhFHy0PltjCKLQCI_lpuyqN7n4Ogww0/view?usp=drive_link]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
