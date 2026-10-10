@@ -31,7 +31,7 @@
 |-------|-------------|
 | **Full Name** | [Layan Nasser Aldosari] |
 | **Student ID** | [446360212] |
-| **University Email** | [446360212@std.psau.edu.sa |
+| **University Email** | 446360212@std.psau.edu.sa |
 | **GitHub Username** | [layan783] |
 | **Repository Link** | [https://github.com/layan783/OS-Assignment1-Layan-Aldosari] |
  
@@ -382,7 +382,7 @@ P2 added to ready queue │ Burst time: 10971ms │ Priority: 4
 
 3. **Running**: [P1 starts executing, and my output shows that it runs for 2730 ms]
 
-4. **Waiting**: [During execution, Thread.sleep() temporarily pauses the thread, while Thread.join() makes the main thread wait for P1 to finish.]
+4. **Waiting**: [During execution, Thread.sleep() puts P1's thread in the TIMED_WAITING state, while Thread.join() makes the main thread wait for P1 to finish.]
 
 5. **Terminated**: [P1 finishes execution after 2730 ms, as shown in my output: P1 finished execution!]
 
